@@ -1,0 +1,10 @@
+1.	Check the date in input file once it is uploaded in HDFS. 
+2.	Check tables (both calender & cha) in hive using HUE framework after creation of table.
+3.	Query content of calender table.
+4.	Query content of cha table.
+5.	Run complete query to check whether results are correct or not.
+6.	Check results of inner queries.
+7.	Check the logs for any issues.
+8.	Check output correctness for different fields.
+9.	Check output for missing dates.
+10.	Check output for delimiter between fields.
